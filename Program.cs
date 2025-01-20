@@ -1,7 +1,4 @@
-﻿
-using System.Linq.Expressions;
-
-class Program
+﻿class Program
 {
     static async IAsyncEnumerable<int> GenerateNumbersAsync()
     {
