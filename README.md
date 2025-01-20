@@ -1,0 +1,3 @@
+### Ejemplo de utilizacion de async foreach en c#
+
+La instrucción await foreach en C# es utilizada para iterar de forma asincrónica sobre elementos de una colección que implementa la interfaz IAsyncEnumerable<T>. Es especialmente útil para manejar flujos de datos asincrónicos, donde los elementos pueden generarse o recibirse con retrasos, como al leer datos desde una base de datos, una API, o un archivo de red.
